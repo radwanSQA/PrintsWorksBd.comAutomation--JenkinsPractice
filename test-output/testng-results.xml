@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T00:41:24 BDT" name="Suite" finished-at="2022-10-14T00:42:51 BDT" duration-ms="87011">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T00:41:24 BDT" name="Test" finished-at="2022-10-14T00:42:51 BDT" duration-ms="87011">
+      <class name="tests.ViewProductDetailsTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.ViewProductDetailsTest@18317edc]" started-at="2022-10-14T00:41:48 BDT" name="startUrl" finished-at="2022-10-14T00:41:48 BDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="PageDetails()[pri:0, instance:tests.ViewProductDetailsTest@18317edc]" started-at="2022-10-14T00:41:48 BDT" name="PageDetails" finished-at="2022-10-14T00:42:23 BDT" duration-ms="34996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageDetails -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.ViewProductDetailsTest@18317edc]" started-at="2022-10-14T00:42:23 BDT" name="afterClass" finished-at="2022-10-14T00:42:23 BDT" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.ViewProductDetailsTest -->
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.HomePageTest@2eea88a1]" started-at="2022-10-14T00:41:21 BDT" name="start" finished-at="2022-10-14T00:41:24 BDT" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.HomePageTest@2eea88a1]" started-at="2022-10-14T00:41:24 BDT" name="startUrl" finished-at="2022-10-14T00:41:34 BDT" duration-ms="10279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="menuVisit()[pri:0, instance:tests.HomePageTest@2eea88a1]" started-at="2022-10-14T00:41:34 BDT" name="menuVisit" finished-at="2022-10-14T00:41:47 BDT" duration-ms="12792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuVisit -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.HomePageTest@2eea88a1]" started-at="2022-10-14T00:41:47 BDT" name="afterClass" finished-at="2022-10-14T00:41:48 BDT" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.HomePageTest@2eea88a1]" started-at="2022-10-14T00:42:51 BDT" name="close" finished-at="2022-10-14T00:42:52 BDT" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.CheckoutInfoTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.CheckoutInfoTest@4e0ae11f]" started-at="2022-10-14T00:42:23 BDT" name="startUrl" finished-at="2022-10-14T00:42:23 BDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="checkoutDetails()[pri:0, instance:tests.CheckoutInfoTest@4e0ae11f]" started-at="2022-10-14T00:42:23 BDT" name="checkoutDetails" finished-at="2022-10-14T00:42:51 BDT" duration-ms="27877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutDetails -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.CheckoutInfoTest@4e0ae11f]" started-at="2022-10-14T00:42:51 BDT" name="afterClass" finished-at="2022-10-14T00:42:51 BDT" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.CheckoutInfoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
